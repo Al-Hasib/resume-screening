@@ -182,12 +182,6 @@ If you encounter any issues or have questions:
 2. Review the [Groq documentation](https://console.groq.com/docs)
 3. Open an issue in the repository
 
-## 🔄 Updates
-
-- **v1.0.0**: Initial release with core functionality
-- **v1.1.0**: Added enhanced folder browser and dashboard
-- **v1.2.0**: Improved error handling and email notifications
-
 ---
 
 **Made with ❤️ for efficient recruitment processes**
